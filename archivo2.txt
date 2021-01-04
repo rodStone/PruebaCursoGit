@@ -2,3 +2,4 @@ probando git status  lunes
 
 codigo agregado el martes
 cambios del dia martes 2
+cambios del dia miercoles 
